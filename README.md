@@ -9,32 +9,6 @@
     <li>Hard work pays off.</li>
     <li>Positive mindset.</li>
 </ul>
-<h2>🎓Education</h2>
-<p>
-    <b>Elementary:</b> Damong Maliit Elementary School<br>
-    <b>Junior High School:</b> Dolores National High School<br>
-    <b>Senior High School:</b> Precious High Academy Concepcion Inc.<br></p>
-
-<h2>💻<b>My Projects</b></h2>
-<h3><b>MIDTERM</b></h3>
-<p>
-<b>MIDTERM LAB TASK 1: 📁</b> <a href = "Resume.html" target ="_blank" style="text-decoration: none;">
-    Resume
-</a><br>
-<b>MIDTERM LAB TASK 2: 📁</b><a href = "Exer2.html" target ="_blank" style="text-decoration: none;">
-    Ordered and Unordered List
-</a><br>
-<b>MIDTERM LAB TASK 3: 📁</b><a href = ".html" target ="_blank" style="text-decoration: none;">
-    Ongoing...
-</a>
-</p>
-
-<h3><b>FINALS</b></h3>
-<p>
-<b>FINAL LAB TASK 1: 📁</b><br>
-<b>FINAL LAB TASK 2: 📁</b><br>
-<b>FINAL LAB TASK 3: 📁</b><br>
-</p>
 <h2>❤️<b>I Love:</b></h2>
 <ul type = "disc">
 <li>🎧 Listening to music while reviewing</li>
