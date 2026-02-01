@@ -1,4 +1,4 @@
-<img align="center" src="ws.jpg" width="900" height="350">
+<img align="center" src="ws.jpg" width="880" height="250">
 <h1 align="center">Hi 👋, I'm Trixia</h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 <h1>🎀<b>About Me</b></h1>
